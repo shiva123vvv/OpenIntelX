@@ -1,0 +1,26 @@
+[
+    {
+        "type": "email",
+        "value": "john.doe@example.com",
+        "breachCount": 2,
+        "socialProfilesFound": 4,
+        "riskScore": 60,
+        "createdAt": "2023-10-27T10:00:00.000Z"
+    },
+    {
+        "type": "phone",
+        "value": "+15550199",
+        "breachCount": 0,
+        "socialProfilesFound": 1,
+        "riskScore": 20,
+        "createdAt": "2023-10-27T11:30:00.000Z"
+    },
+    {
+        "type": "username",
+        "value": "dev_guru_99",
+        "breachCount": 5,
+        "socialProfilesFound": 8,
+        "riskScore": 85,
+        "createdAt": "2023-10-28T09:15:00.000Z"
+    }
+]
